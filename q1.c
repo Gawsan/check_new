@@ -18,6 +18,8 @@ int main(void) {
     //addition
     if(method=='+'){
       result=num1+num2;
+      int x=10;
+      x+5;
     }
     //substraction
     else if(method=='-'){
